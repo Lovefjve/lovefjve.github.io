@@ -10,8 +10,7 @@ MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: New Package
 Author: Lovefjve
-Depiction: https://lovefjve.github.io/depictions/?p=com.supermamon.newpackage
-
+Depiction: https://lovefjve.github.io
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
 Section: Tweaks
@@ -24,7 +23,7 @@ MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
 Author: Lovefjve
-Depiction: https://lovefjve.github.io/depictions/?p=com.supermamon.oldpackage
+Depiction: https://lovefjve.github.io
 
 Package: com.lovefjve.messengernoads
 Version: 3.10.0
@@ -32,9 +31,9 @@ Section: Tweaks
 Maintainer: Lovefjve
 Architecture: iphoneos-arm
 Filename: ./debs/com.bienvannhat.messengernoads_3.10.0_iphoneos-arm.deb
-Size: 587.144
+Size: 587,144
 MD5sum: fd14a42f2d8652e0b008ccdcb6e88a1b
 Name: Messenger no ads
 Author: lovefjve
-Depiction: https://lovefjve.github.io/depictions/?p=com.lovefjve.messengernoads 
+Depiction: https://lovefjve.github.io
 
