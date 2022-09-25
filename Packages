@@ -33,9 +33,8 @@ Maintainer: Lovefjve
 Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.bienvannhat.messengernoads_3.10.0_iphoneos-arm.deb
-Size: 588
+Size: 587,144
 MD5sum: fd14a42f2d8652e0b008ccdcb6e88a1b
 Name: Messenger no ads
-Author: lovefjve
-Depiction: https://lovefjve.github.io
+Author: Hao Nguyen
 
