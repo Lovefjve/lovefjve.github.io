@@ -31,9 +31,9 @@ Version: 3.10.0
 Section: Tweaks
 Maintainer: Lovefjve
 Architecture: iphoneos-arm
-Filename: ./debs/com.bienvannhat.messengernoads_3.10.0_iphoneos-arm.deb
-Size: 587,144
-MD5sum: fd14a42f2d8652e0b008ccdcb6e88a1b
+Filename: ./debs/com.haoict.messengernoads_3.10.0_iphoneos-arm.deb
+Size: 538,742
+MD5sum: be67c36dd972bee2f1f4368ac325f88c
 Name: Messenger no ads
 Author: Hao Nguyen
 
