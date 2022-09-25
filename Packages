@@ -30,6 +30,7 @@ Package: com.lovefjve.messengernoads
 Version: 3.10.0
 Section: Tweaks
 Maintainer: Lovefjve
+Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.bienvannhat.messengernoads_3.10.0_iphoneos-arm.deb
 Size: 588
