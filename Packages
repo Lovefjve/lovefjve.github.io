@@ -31,10 +31,11 @@ Version: 3.10.0
 Section: Tweaks
 Maintainer: Lovefjve
 Architecture: iphoneos-arm
-Filename: ./debs/com.haoict.messengernoads_3.10.0_iphoneos-arm.deb
+Filename: ./debs/messengernoads.deb
 Size: 538742
 MD5sum: be67c36dd972bee2f1f4368ac325f88c
 Description: Chặn quảng cáo, ẩn xem tin
 Name: Messenger no ads
 Author: Hao Nguyen
+Depiction: chặn quảng cáo; ẩn xem tin nhắn, story 
 
