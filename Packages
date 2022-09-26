@@ -31,7 +31,7 @@ Version: 3.10.0
 Section: Tweaks
 Maintainer: Lovefjve
 Architecture: iphoneos-arm
-Filename: ./debs/messengernoads.deb
+Filename: ./debs/com.lovefjve.messengernoads_3.10.0_iphoneos-arm.deb
 Size: 538742
 MD5sum: be67c36dd972bee2f1f4368ac325f88c
 Description: Chặn quảng cáo, ẩn xem tin
