@@ -29,12 +29,27 @@ Depiction: https://lovefjve.github.io
 Package: com.lovefjve.messengernoads
 Version: 3.10.0
 Section: Tweaks
-Maintainer: Lovefjve
+Maintainer: Hao Nguyen
 Architecture: iphoneos-arm
 Filename: ./debs/com.lovefjve.messengernoads_3.10.0_iphoneos-arm.deb
-Size: 4608
-MD5sum: 6388ff69d267cf7e498577a62d5b5c1e
-Description: Chặn quảng cáo, ẩn xem tin
+Size: 538407
+MD5sum: 83e666e00e16496408d0c81687742464
+Description: Tinh chỉnh tốt nhất cho ứng dụng Messenger.
+ Tinh chỉnh tốt nhất cho ứng dụng Messenger.
+ .
+ Đặc trưng:
+ - Ẩn quảng cáo trên ứng dụng Messenger
+ - Tắt biên nhận đã đọc
+ - Tắt chỉ báo đánh máy
+ - Vô hiệu hóa Story Seen Receipt
+ - Có thể lưu câu chuyện của bạn bè
+ - Ẩn Thanh tìm kiếm, hàng Câu chuyện, tab Mọi người
+ - Ẩn Liên hệ được Đề xuất trong Tìm kiếm
+ - Kéo dài thời lượng tải lên video câu chuyện (từ mặc định là 20 giây thành 10 phút)
+ - Hỗ trợ iOS 12 - iOS 14
+ - Hỗ trợ phiên bản Messenger mới nhất (Nếu nó không hoạt động, bạn nên cập nhật ứng dụng lên phiên bản mới nhất> = 300.0)
+ .
+ Cảm ơn rất nhiều
 Name: Messenger no ads
 Author: Hao Nguyen
 
