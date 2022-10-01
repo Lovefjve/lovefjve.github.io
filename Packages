@@ -51,10 +51,8 @@ Description: The best tweak for Messenger app.
  - Support latest Messenger version (If it doesn't work, you should update the app to latest version >= 300.0)
  .
  Thanks a ton
- Name: Messenger No Ads
- Author: Hao Nguyen
- Depiction: https://lovefjve.github.io/depictions/?p=com.lovefjve.messengernoads
-
+Name: Messenger No Ads
+Author: Hao Nguyen
 
 Package: com.lovefjve.leftpan
 Version: 1.0-3
