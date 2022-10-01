@@ -33,8 +33,8 @@ Maintainer: Hao Nguyen
 Depends: mobilesubstrate, firmware (>= 12)
 Architecture: iphoneos-arm
 Filename: ./debs/com.lovefjve.messengernoads_3.10.0_iphoneos-arm.deb
-Size: 590349
-MD5sum: a1747cfaa40cfabeb37142298be2067f 
+Size: 590379
+MD5sum: bb724089d1d5ad102c8165255a803222 
 Description: The best tweak for Messenger app.
  The best tweak for Messenger app.
  .
@@ -53,6 +53,7 @@ Description: The best tweak for Messenger app.
  Thanks a ton
 Name: Messenger No Ads
 Author: Hao Nguyen
+Depiction: https://lovefjve.github.io/depictions/?p=com.lovefjve.messengernoads
 
 Package: com.lovefjve.leftpan
 Version: 1.0-3
