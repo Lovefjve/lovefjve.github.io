@@ -1,7 +1,7 @@
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
+Maintainer: Lovefjve
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
@@ -9,13 +9,13 @@ Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Author: Lovefjve
+Depiction: https://lovefjve.github.io
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
+Maintainer: lovefjve
 Depends: firmware (<7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
@@ -23,6 +23,46 @@ Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Author: Lovefjve
+Depiction: https://lovefjve.github.io
 
+Package: com.lovefjve.messengernoads
+Version: 3.10.0
+Section: Tweaks 
+Maintainer: lovefjve
+Depends: mobilesubstrate, firmware (>= 12)
+Architecture: iphoneos-arm
+Filename: ./debs/com.lovefjve.messengernoads_3.10.0_iphoneos-arm.deb
+Size: 590349
+MD5sum: a1747cfaa40cfabeb37142298be2067f 
+Description: The best tweak for Messenger app.
+ The best tweak for Messenger app.
+ .
+ Features:
+ - Hide Ads on Messenger app
+ - Disable Read Receipt
+ - Disable Typing Indicator
+ - Disable Story Seen Receipt
+ - Can Save Friend's Story
+ - Hide Search Bar, Stories row, People tab
+ - Hide Suggested Contact in Search
+ - Extend Story Video Upload Length (from default is 20 seconds to 10 minutes)
+ - Support iOS 12 - iOS 14
+ - Support latest Messenger version (If it doesn't work, you should update the app to latest version >= 300.0)
+ .
+ Thanks a ton
+Name: Messenger No Ads
+Author: Hao Nguyen
+
+Package: com.lovefjve.leftpan
+Version: 1.0-3
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader, applist
+Name: Vuốt sang trái để quay lại
+Maintainer: Mao
+Architecture: iphoneos-arm
+Filename: ./debs/com.lovefjve.leftpan_1.0-3_iphoneos-arm.deb
+Size: 98347
+MD5sum: 2870247fccb1fcd87ebf9bb7c651cd9c
+Description: Bật hệ thống và vuốt từ trái sang phải để quay lại trang trước.
+Author: Mao <admin@25mao.com>
