@@ -27,17 +27,15 @@ Author: Lovefjve
 Depiction: https://lovefjve.github.io
 
 Package: com.lovefjve.messengernoads
-Version: 3.10.0
-Section: Tweaks
+Name: Messenger No Ads
 Depends: mobilesubstrate, firmware (>= 12)
-Maintainer: Hao Nguyen
 Architecture: iphoneos-arm
 Filename: ./debs/com.lovefjve.messengernoads_3.10.0_iphoneos-arm.deb
-Size: 7384648
-MD5sum: c298fe788cb66da25d4e48cda3ff8ac0
+Size: 590349
+MD5sum: a1747cfaa40cfabeb37142298be2067f 
 Description: The best tweak for Messenger app.
  The best tweak for Messenger app.
- . 
+ .
  Features:
  - Hide Ads on Messenger app
  - Disable Read Receipt
@@ -49,10 +47,13 @@ Description: The best tweak for Messenger app.
  - Extend Story Video Upload Length (from default is 20 seconds to 10 minutes)
  - Support iOS 12 - iOS 14
  - Support latest Messenger version (If it doesn't work, you should update the app to latest version >= 300.0)
- . 
+ .
  Thanks a ton
-Name: Messenger No Ads
+Maintainer: Hao Nguyen
 Author: Hao Nguyen
+Section: Tweaks
+Version: 3.10.0
+
 
 Package: com.lovefjve.leftpan
 Version: 1.0-3
