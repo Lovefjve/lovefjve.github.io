@@ -54,3 +54,15 @@ Description: The best tweak for Messenger app.
 Name: Messenger No Ads
 Author: Hao Nguyen
 
+Package: com.lovefjve.leftpan
+Version: 1.0-3
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader, applist
+Name: Vuốt sang trái để quay lại
+Maintainer: Mao
+Architecture: iphoneos-arm
+Filename: ./debs/com.lovefjve.leftpan_1.0-3_iphoneos-arm.deb
+Size: 98347
+MD5sum: 2870247fccb1fcd87ebf9bb7c651cd9c
+Description: Bật hệ thống và vuốt từ trái sang phải để quay lại trang trước.
+Author: Mao <admin@25mao.com>
