@@ -10,10 +10,7 @@ MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: New Package
 Author: Lovefjve
-<<<<<<< HEAD
-=======
 Depiction: https://lovefjve.github.io
->>>>>>> gh-pages
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
@@ -27,7 +24,6 @@ MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
 Author: Lovefjve
-<<<<<<< HEAD
 
 Package: com.lovefjve.messengernoads
 Version: 3.10.0
@@ -38,7 +34,6 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.lovefjve.messengernoads_3.10.0_iphoneos-arm.deb
 Size: 590379
 MD5sum: bb724089d1d5ad102c8165255a803222 
-=======
 Depiction: https://lovefjve.github.io
 
 Package: com.lovefjve.messengernoads
