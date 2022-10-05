@@ -48,25 +48,8 @@ Maintainer: lovefjve
 Depends: mobilesubstrate, firmware (>= 12)
 Architecture: iphoneos-arm
 Filename: ./debs/com.lovefjve.messengernoads_3.10.0_iphoneos-arm.deb
-Size: 590349
-MD5sum: a1747cfaa40cfabeb37142298be2067f 
->>>>>>> gh-pages
-Description: The best tweak for Messenger app.
- The best tweak for Messenger app.
- .
- Features:
- - Hide Ads on Messenger app
- - Disable Read Receipt
- - Disable Typing Indicator
- - Disable Story Seen Receipt
- - Can Save Friend's Story
- - Hide Search Bar, Stories row, People tab
- - Hide Suggested Contact in Search
- - Extend Story Video Upload Length (from default is 20 seconds to 10 minutes)
- - Support iOS 12 - iOS 14
- - Support latest Messenger version (If it doesn't work, you should update the app to latest version >= 300.0)
- .
- Thanks a ton
+Size: 598149
+MD5sum: f34f073a8c86fb796574d8b7e990ce9a
 Name: Messenger No Ads
 Author: Hao Nguyen
 
